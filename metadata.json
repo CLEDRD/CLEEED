@@ -1,0 +1,6 @@
+{
+  "name": "Sistema CLED - Club de Liderazgo Estudiantil y Desarrollo",
+  "description": "Sistema integral de gestión académica, asistencias, rúbricas de módulos, tareas, certificados QR y auditoría para el Club de Liderazgo Estudiantil y Desarrollo (CLED) del Instituto Politécnico Henríquez Ureña.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
